@@ -23,7 +23,7 @@ jobs:
           # extended: true
 
       - name: Build
-        run: hugo build
+        run: hugo mod get -u && hugo build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
