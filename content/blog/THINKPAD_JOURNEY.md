@@ -1,6 +1,7 @@
 ---
 title: My personal thinkpad journey
 date: 2024-12-12
+draft: true
 ---
 
 For my personal note taking process and projects i use a dell laptop that as served me pretty well in the current year, it has a pretty good build quality and specs but i'm scared to take it with me when i travel (*i'm a off-campus student/worker*) so i was looking for something sturdy that can handle falls and punches with no problem.

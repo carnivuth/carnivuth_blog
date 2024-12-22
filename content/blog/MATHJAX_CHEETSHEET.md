@@ -2,6 +2,7 @@
 title: mathjax cheetsheet
 date: 2024-11-03
 tags: []
+draft: true
 ---
 
 General mathjax quick reference

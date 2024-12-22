@@ -2,6 +2,7 @@
 title: terraform loops
 date: 2024-11-17
 index: 16
+draft: true
 ---
 
 Loops can be defined  specifying the variable `count` inside a specific resource, then the index of the loop  can be accessed via the `count.index` variable

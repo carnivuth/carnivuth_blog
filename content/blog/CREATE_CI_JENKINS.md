@@ -1,13 +1,12 @@
 ---
-title: configure jenkins ci with github repos
+title: Configure jenkins ci with github repos
 date: 2024-09-16
 id: CREATE_CI_JENKINS
 aliases: []
 tags: []
 index: 13
+draft: true
 ---
-
-# CONFIGURE JENKINS CI WITH GITHUB REPOS
 
 Jenkins is a CI service that can build and test software from different VCS, in order to create a new pipeline to build and compile software from github repos, in this setup github will trigger with a webhook the jenkins instance to run a build defined in a Jenkinsfile inside the repo, events that triggers the CI pipeline can be specified in the github repo config section
 

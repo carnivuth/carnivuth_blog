@@ -1,6 +1,7 @@
 ---
 title: integrate html snippets in obsidian
 date: 2024-12-07
+draft: true
 ---
 > my madness has no limits
 

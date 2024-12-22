@@ -1,7 +1,8 @@
 ---
 date: 2024-11-28
 index: 22
-title: migration to cloudflare dns
+title: My cloudflare migration journey
+draft: true
 ---
 
 In order to expose different web applications to the public internet i decided to migrate my dns to [cloudflare](https://www.cloudflare.com). After migration the architecture looks like this

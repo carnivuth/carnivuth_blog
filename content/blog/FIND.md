@@ -1,12 +1,10 @@
 ---
-title: find command guide
+title: My personal find command guide
 date: 2024-11-11
-index: 2
+draft: true
 tags:
   - ONELINERS
 ---
-
-# FIND COMMAND
 
 The `find` command is handy tool to manage files inside the file system, the command structure is:
 

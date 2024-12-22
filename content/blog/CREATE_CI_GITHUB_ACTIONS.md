@@ -1,11 +1,10 @@
 ---
-title: create continous integration pipelines with `github` actions
+title: Create continous integration pipelines with `github` actions
 date: 2024-09-16
 aliases: []
 tags: []
+draft: true
 ---
-
-# CREATE CI `GITHUB` ACTIONS
 
 `Github` offers a CI service called `github actions`, the service runs workflows defined for the repo in a dedicated server called workers, workflows are defined in yaml format under the folder `.github/workflows/`.
 

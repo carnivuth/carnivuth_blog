@@ -1,11 +1,10 @@
 ---
 date: 2024-10-25
-title: git hooks
+title: automate systems with git hooks
 aliases: []
 tags: []
+draft: true
 ---
-
-# GIT HOOKS
 
 Git hooks are a special git feature that allow for script execution when some particular event is fired.
 

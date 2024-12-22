@@ -4,7 +4,7 @@ date: 2024-11-16
 id: ARCH_SETUP
 aliases: []
 tags: []
-index: 18
+draft: true
 ---
 
 over the years i have customized a lot my arch linux installation, and pushed by the fear of loosing all my customization i've decided to manage all of my dotfiles in a [github repo](https://github.com/carnivuth/scripts).

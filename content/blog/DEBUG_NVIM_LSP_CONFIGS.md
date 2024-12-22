@@ -4,6 +4,7 @@ date: 2024-11-23
 aliases: []
 tags: []
 index: 9
+draft: true
 ---
 
 Brief guide to debug [neovim](https://neovim.io/) lsp server configuration

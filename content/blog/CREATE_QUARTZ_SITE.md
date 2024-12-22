@@ -5,6 +5,7 @@ id: CREATE_QUARTZ_SITE
 aliases: []
 tags: []
 index: 12
+draft: true
 ---
 
 Obsidian is an incredible powertool when managing notes and personal knowledge, but it lacks of an os solution to publish notes in a web readable format, quartz is tool that aims to fix that, and can be integrated with [github actions](CREATE CI GITHUB ACTIONS) to automate the workflow

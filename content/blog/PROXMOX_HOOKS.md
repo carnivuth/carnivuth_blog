@@ -3,6 +3,7 @@ date: 2024-09-16
 title: how to use proxmox hooks!
 aliases: []
 tags: []
+draft: true
 ---
 
 Scripts are runned in multiple moments of the ct/vm lifecicle, they can be of different types (*e.g. bash perl python*) they run inside the proxmox host.

@@ -1,6 +1,7 @@
 ---
 title: setup backup with hetzner storagebox
 date: 2024-09-29
+draft: true
 ---
 
 Hetzner is a cloud provider that offers various services, Paas and Saas and also cloud storage, in the form of storageboxes, in order to configure a backup for a new host

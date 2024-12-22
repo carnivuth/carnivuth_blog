@@ -1,10 +1,11 @@
 ---
-title: configure nintendo 3DS as a travel buddy
+title: Configure nintendo 3DS as a travel buddy
 date: 2024-11-26
 aliases: []
 tags: []
-index: 19
+draft: true
 ---
+
 >My personal ultimate guide to setup a bullet proof nintendo 3ds emulator machine to take around and don't lose data
 
 ## THE PROBLEM

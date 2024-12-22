@@ -1,14 +1,15 @@
 ---
-title: awk personal guide
+title: Awk personal guide
 date: 2024-11-16
+draft: true
 tags:
   - oneliners
   - command guide
 ---
 
-`awk` is a language for text parsing and manipulation
+`awk` is a language for text parsing and manipulation, it's often used as a tokenizer in bash pipes but it can do a lot more of that here i will document my knowledge about it
 
->[!TIP] before starting i write down the most common use case of awk
+> before starting i write down the most common use case of awk
 >```bash
 >some_command_that_prints_on_stdout | awk -F'[SEPARATOR]'  '{print $[FIELD]}'
 >```
@@ -17,7 +18,7 @@ tags:
 
 awk starts by loading user defined functions than execute `BEGIN` block that process text one record at a time (*default behavior is line filter*) :
 
-```mermaid
+{{ <mermaid> }}
 flowchart TD
 A[load functions]
 B[initial setup\n by running the BEGIN block]
@@ -28,7 +29,7 @@ A --> B --> C
 C --> D
 D --> C
 D --> E
-```
+{{ </mermaid> }}
 
 ## SYNTAX
 
@@ -71,5 +72,3 @@ match regex element and put beckrefs in an array
 ```bash
 awk '{$1=""; print $0}'
 ```
-
-

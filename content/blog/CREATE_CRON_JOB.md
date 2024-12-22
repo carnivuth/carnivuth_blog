@@ -1,12 +1,11 @@
 ---
 date: 2024-09-16
-title: make cronjobs like a pro
+title: Make cronjobs like a pro
 aliases: []
 tags: [CRON]
 index: 1
+draft: true
 ---
-
-# CREATE CRON JOB
 
 here a quick reference for creating a cronjob for industrial usage,
 

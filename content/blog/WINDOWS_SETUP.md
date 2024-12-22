@@ -1,9 +1,9 @@
 ---
-title: windows personal customization guide
+title: Windows personal customization guide
 date: 2024-11-16
 index: 21
+draft: true
 ---
-# FRESH WINDOWS INSTALL
 
 Same ideas as the [personal linux setup](ARCH_SETUP.md)  guide but simpler (*i don't use windows very often*)
 
@@ -33,5 +33,3 @@ echo '{"$schema":"https://aka.ms/winget-packages.schema.2.0.json","CreationDate"
 ' > programs.txt
 winget import -i programs.json
 ```
-
-[](pages/setups/ANDROID_SETUP.md)

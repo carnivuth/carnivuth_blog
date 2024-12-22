@@ -1,12 +1,11 @@
 ---
-title: gpg keys backup guide and usage
+title: How to gpg
 date: 2024-12-09
 id: EXPORT_GPG_KEYS
 aliases: []
 tags: []
+draft: true
 ---
-
-# EXPORT GPG KEYS
 
 Just the oneliner, export_gpg_keys.md should be self explanatory
 

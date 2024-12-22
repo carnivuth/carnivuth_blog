@@ -3,6 +3,7 @@ title: configure pass for password storage
 date: 2024-11-22
 aliases: []
 tags: []
+draft: true
 ---
 
 `pass` is a handy program to manage passwords locally to a specific environment, it basically manage a local directory of text files encrypted with `gpg`

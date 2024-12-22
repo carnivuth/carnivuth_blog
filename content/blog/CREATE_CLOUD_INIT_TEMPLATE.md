@@ -4,6 +4,7 @@ date: 2024-09-16
 id: CREATE_CLOUD_INIT_TEMPLATE
 aliases: []
 tags: []
+draft: true
 ---
 
 In order to use `terraform` as a [IaC](https://it.wikipedia.org/wiki/Infrastructure_as_Code) tool in a `proxmox` cluster [cloud init templates](https://pve.proxmox.com/wiki/Cloud-Init_Support) are needed to generate vms from, in order to generate a cloud init template:

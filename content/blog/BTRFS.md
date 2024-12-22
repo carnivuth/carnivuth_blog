@@ -2,6 +2,7 @@
 title: btrfs filesystem
 date: 2024-11-16
 index: 6
+draft: true
 ---
 > When you are tired of `ext4` with no reason.....
 # BTRFS FILESYSTEM

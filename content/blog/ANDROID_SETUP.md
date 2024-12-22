@@ -1,9 +1,9 @@
 ---
-title: setup android the nerdy way
+title: Setup android the nerdy way
 date: 2024-11-16
 index: 20
+draft: true
 ---
-# SETUP ANDROID THE NERDY WAY
 
 With time passing by i'm getting more and more addicted to the terminal workflows that i've built, so Android devices for me are such a pain to work with but from time to time my main laptop runs out of charge so i'm forced to work with my tablet.
 
@@ -31,5 +31,3 @@ cd toolbox
 ```
 
 And it "*should*" be working, i hope
-
-
