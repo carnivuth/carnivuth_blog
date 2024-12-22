@@ -1,4 +1,6 @@
-#theme = "congo"
+baseURL = "https://blog.carnivuth.org"
+languageCode = "en"
+
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
