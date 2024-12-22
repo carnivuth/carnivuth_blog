@@ -239,4 +239,4 @@ jobs:
 
 ![](/images/Pasted%20image%2020240917001709.png)
 
-[PREVIOUS](pages/git_github/CREATE_CI_GITHUB_ACTIONS.md) [NEXT](pages/git_github/CREATE_CI_JENKINS.md)
+

@@ -59,4 +59,4 @@ done
 0 10 * * * /usr/local/bin/sync_with_remote.sh >> /var/log/sync_with_remote.log 2>1
 ```
 
-[PREVIOUS](pages/bash_automation/FIND.md) [NEXT](pages/bash_automation/AWK.md)
+

@@ -1,0 +1,4 @@
+enableSearch = true
+
+homepage.layout = "profile"
+homepage.showRecent = true

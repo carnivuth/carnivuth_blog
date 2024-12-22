@@ -253,4 +253,4 @@ General mathjax quick reference
 | $\dot{x}$                 | `\dot{x}`                 |
 | $\ddot{x}$                | `\ddot{x}`                |
 
-[PREVIOUS](pages/proxmox/TERRAFORM_LOOPS.md.md) [NEXT](pages/setups/ARCH_SETUP.md)
+

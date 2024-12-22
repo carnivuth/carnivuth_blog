@@ -1,24 +1,23 @@
 ---
-title: arch linux dotfiles installation
+title: Arch linux dotfiles installation
 date: 2024-11-16
 id: ARCH_SETUP
 aliases: []
 tags: []
 index: 18
 ---
-# ARCH LINUX PERSONAL SETUP
 
-over the years i have customized a lot my arch linux installation and pushed by the fear of loosing all my customization i've pushed all of my dotfiles in a [github repo](https://github.com/carnivuth/scripts).
+over the years i have customized a lot my arch linux installation, and pushed by the fear of loosing all my customization i've decided to manage all of my dotfiles in a [github repo](https://github.com/carnivuth/scripts).
 
 Why i wrote this page? because i am lazy basically, and the idea of re-imagine the steps to reconfigure a new machine (*or this machine if for some reason i need to reconfigure it*) it's too much on my mental stack and prevents me from even start the process, so the idea is:
 
-```mermaid
+{{< mermaid >}}
 flowchart LR
 A[insert USB stick]
 B[clone this repo]
 C["`**GREP AND PASTE LIKE THERE IS NO TOMORROW**`"]
 A --> B --> C
-```
+{{< /mermaid >}}
 
 ## STEPS
 

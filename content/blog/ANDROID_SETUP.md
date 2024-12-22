@@ -32,4 +32,4 @@ cd toolbox
 
 And it "*should*" be working, i hope
 
-[PREVIOUS](pages/setups/N3DS_SETUP.md) [NEXT](pages/setups/WINDOWS_SETUP.md)
+

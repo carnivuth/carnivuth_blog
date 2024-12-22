@@ -1,0 +1,12 @@
+title = "Carnivuth"
+
+[params.author]
+name = "Carnivuth"
+image = "avatar.jpg"
+headline = "System administrator and homelab addicted guy with a passion for dogs"
+bio = "devops engeneer and system administrator"
+links = [
+  { linkedin = "https://www.linkedin.com/in/matteo-longhi-b3a433247" },
+  { github  = "https://github.com/carnivuth" }
+]
+params.mainSections=["blog"]

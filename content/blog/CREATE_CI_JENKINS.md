@@ -67,4 +67,4 @@ pipeline {
 
 - Configure Jenkins to add GitHub hooks automatically to the repo
 
-[PREVIOUS](pages/git_github/CREATE_QUARTZ_SITE.md) [NEXT](pages/proxmox/CREATE_CLOUD_INIT_TEMPLATE.md)
+

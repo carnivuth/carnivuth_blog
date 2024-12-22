@@ -47,4 +47,4 @@ fi
 
 Now man can be browsed with vim keybindings and for quick oneliners the `tldr` command can be used
 
-[PREVIOUS](pages/bash_automation/BTRFS.md) [NEXT](pages/bash_automation/CONFIGURE_PASS.md)
+

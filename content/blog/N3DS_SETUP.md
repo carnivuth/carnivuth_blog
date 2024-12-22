@@ -91,4 +91,4 @@ fi
 * * * * * /usr/local/bin/backup_3ds.sh >> /var/log/backup_3ds.sh 2>&1
 ```
 
-[PREVIOUS](pages/setups/ARCH_SETUP.md) [NEXT](pages/setups/ANDROID_SETUP.md)
+

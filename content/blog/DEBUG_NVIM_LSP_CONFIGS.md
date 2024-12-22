@@ -83,4 +83,4 @@ require('lspconfig').ansiblels.setup{
 
 the `pattern` objects requires a [lua pattern](https://www.lua.org/manual/5.1/manual.html#5.4.1) as argument
 
-[PREVIOUS](pages/bash_automation/CONFIGURE_PASS.md) [NEXT](pages/git_github/GIT_HOOKS.md)
+

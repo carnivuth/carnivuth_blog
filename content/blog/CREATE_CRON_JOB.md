@@ -48,4 +48,4 @@ it's also usefull to avoid mail notification from the cron daemon:
 */5 * * * * //usr/local/bin/some_script.sh > /dev/null 2>&1
 ```
 
- [NEXT](pages/bash_automation/FIND.md)
+

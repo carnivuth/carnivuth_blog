@@ -47,4 +47,4 @@ gh repo create --source=. --private [repo-name]
 git push --set-upstream origin main
 ```
 
-[PREVIOUS](pages/bash_automation/MAN_CONFIGURATION.md) [NEXT](pages/bash_automation/DEBUG_NVIM_LSP_CONFIGS.md)
+

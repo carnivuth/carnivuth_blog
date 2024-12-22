@@ -56,4 +56,4 @@ else
 fi
 ```
 
-[PREVIOUS](pages/bash_automation/DEBUG_NVIM_LSP_CONFIGS.md) [NEXT](pages/git_github/CREATE_CI_GITHUB_ACTIONS.md)
+

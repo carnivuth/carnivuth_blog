@@ -13,4 +13,4 @@ It's a modern filesystem that comes with a lot of features like:
 - snapshots
 - subvolumes
 
-[PREVIOUS](pages/bash_automation/SNMP_V3_QUERY.md) [NEXT](pages/bash_automation/MAN_CONFIGURATION.md)
+

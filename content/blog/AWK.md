@@ -72,4 +72,4 @@ match regex element and put beckrefs in an array
 awk '{$1=""; print $0}'
 ```
 
-[PREVIOUS](pages/bash_automation/SETUP_HETZNER_STORAGEBOX_BACKUP.md) [NEXT](pages/bash_automation/SNMP_V3_QUERY.md)
+

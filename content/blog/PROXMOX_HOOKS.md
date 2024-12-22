@@ -47,4 +47,4 @@ pct set 100 --hookscript local:snippets/script.sh
 qm set 100 --hookscript local:snippets/script.sh
 ```
 
-[PREVIOUS](pages/proxmox/CREATE_CLOUD_INIT_TEMPLATE.md) [NEXT](pages/proxmox/TERRAFORM_LOOPS.md.md)
+

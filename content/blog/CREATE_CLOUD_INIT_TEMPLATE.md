@@ -39,4 +39,4 @@ qm set 9000 --agent enabled=1
 qm template 9000
 ```
 
-[PREVIOUS](pages/git_github/CREATE_CI_JENKINS.md) [NEXT](pages/proxmox/PROXMOX_HOOKS.md)
+

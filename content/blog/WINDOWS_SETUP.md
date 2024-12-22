@@ -34,4 +34,4 @@ echo '{"$schema":"https://aka.ms/winget-packages.schema.2.0.json","CreationDate"
 winget import -i programs.json
 ```
 
-[PREVIOUS](pages/setups/ANDROID_SETUP.md)
+[](pages/setups/ANDROID_SETUP.md)

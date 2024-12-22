@@ -84,4 +84,4 @@ pr_to_main_branch
 
 - test with some commits in the main branch
 
-[PREVIOUS](pages/git_github/GIT_HOOKS.md) [NEXT](pages/git_github/CREATE_QUARTZ_SITE.md)
+
