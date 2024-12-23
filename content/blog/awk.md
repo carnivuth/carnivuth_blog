@@ -18,7 +18,7 @@ tags:
 
 awk starts by loading user defined functions than execute `BEGIN` block that process text one record at a time (*default behavior is line filter*) :
 
-{{ <mermaid> }}
+{{< mermaid >}}
 flowchart TD
 A[load functions]
 B[initial setup\n by running the BEGIN block]
@@ -29,7 +29,7 @@ A --> B --> C
 C --> D
 D --> C
 D --> E
-{{ </mermaid> }}
+{{< /mermaid >}}
 
 ## SYNTAX
 
