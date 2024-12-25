@@ -2,6 +2,12 @@
 date: 2024-11-28
 title: Escape from self hosting in subpaths
 description: My experience migrating my personal services to a cloudflare domain
+tags:
+    - migrations
+    - cloudflare
+    - ansible
+    - terraform
+    - homelab
 draft: false
 ---
 
