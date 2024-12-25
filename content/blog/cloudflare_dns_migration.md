@@ -1,6 +1,6 @@
 ---
 date: 2024-11-28
-title: My cloudflare migration journey
+title: Escape from self hosting in subpaths
 draft: false
 ---
 
