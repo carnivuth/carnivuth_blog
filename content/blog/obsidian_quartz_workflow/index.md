@@ -145,5 +145,3 @@ The action will:
 - push the `html` content to github pages
 
 The github action relies in the fact that in the root of the repository is stored a copy of the quartz [configuration](sample_files/quartz.config.ts) and [layout](sample_files/quartz.layout.ts) file in order to build the website
-
-
