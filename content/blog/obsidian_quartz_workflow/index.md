@@ -1,5 +1,6 @@
 ---
-title: Obsidian vault to website pipeline
+title: Combining obsidian github and quartz for the ultimate note taking experience
+description: "my personal journay to the definitive obsidian experience"
 date: 2024-09-17
 draft: false
 tags:
@@ -143,6 +144,6 @@ The action will:
 - run quartz to generate site
 - push the `html` content to github pages
 
-The github action relies in the fact that in the root of the repository is stored a copy of the quartz [configuration](sample_files/quartz.config.ts) and [layout](/sample_files/quartz.layout.ts) file in order to build the website
+The github action relies in the fact that in the root of the repository is stored a copy of the quartz [configuration](sample_files/quartz.config.ts) and [layout](sample_files/quartz.layout.ts) file in order to build the website
 
 
