@@ -1,5 +1,6 @@
 ---
 title: Dotfiles, how i started my linux adventure
+description: "My personal linux experience with dotfiles, system administration, and distro hopping"
 date: 2024-11-16
 aliases: []
 tags:
