@@ -16,13 +16,13 @@ tags:
 draft: false
 ---
 
-My personal linux journey started when i was in high school and teachers started to show us how production environments where managed and the first simple commands to moving around the linux shell. I still remember to this days some of my professor advises:
+My personal linux journey started when i was in high school and teachers started to show us how production environments where managed. I still remember to this days some of my professor advises:
 
-> before doing anything update the system pakcage repositories by typing `sudo apt update`
+> before doing anything update the system repositories by typing `sudo apt update`
 
 ## HOW IT STARTED
 
-At the time i wasn't daily driving a linux box in all of my machines as i do today, to me linux seems as a server only solution to manage server workflow easily even if i recognize some big advantages for example update the all system, application included with a single command
+At the time i wasn't daily driving a linux box in all of my machines as i do today, to me linux seemed as a server only solution, even if i recognize some big advantages for example update the all system with a single command.
 
 At university i started working more on linux systems (*even take a course focused on system administration*), i also start to develop web applications and at work linux was a more handy system as testing the software in a production like environment was easier.
 
