@@ -48,13 +48,13 @@ Why arch? cause there was no bloatware preinstalled and i was free to experiment
 
 So i started daily drive arch with i3 window manager and dotfiles start to be a big part of my system management operations, i also started to write some small scripts to automate some simple operations (*backup data,writing notes ecc...*).
 
-The next step was obvious, if i need to write text files of any kind then `git init` must be executed and i started to use `stow` for linking files in the directories where they neeeded to be.
+The next step was obvious, if i need to write text files of any kind then `git init` must be executed and i started to use `stow` for linking files in the correct directories.
 
 ## THE RESULTS
 
 Then i started to save all dotfiles and scripts in a  [github repository](https://github.com/carnivuth/scripts), today i use [hyprland](https://hyprland.org/) as my window manager and i have migrated to a terminal based workflow that revolves around `vim` and other terminal only software to be more efficient, This is by far the project that took the most time to create and maintain  😅
 
-I leave here an installation guide for a freshly installation of arch linux, for my lazy alterego the idea is:
+I leave here an installation guide for a freshly arch box, the idea is:
 
 {{< mermaid >}}
 flowchart LR
