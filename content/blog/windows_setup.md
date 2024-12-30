@@ -5,7 +5,6 @@ index: 21
 draft: true
 ---
 
-Same ideas as the [personal linux setup](ARCH_SETUP.md)  guide but simpler (*i don't use windows very often*)
 
 - create a bootable pen with [ventoy](https://www.ventoy.net/en/index.html)
 
