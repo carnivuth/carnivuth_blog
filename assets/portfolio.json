@@ -1,0 +1,181 @@
+{
+  "texts": [],
+  "personalData": {
+    "name": "Matteo",
+    "surname": "Longhi",
+    "email": "matti200042@gmail.com",
+    "city": "Bologna",
+    "bio": "software engineer with a passion for video games"
+  },
+  "contacts": [
+    {
+      "name": "Linkedin",
+      "link": "https://www.linkedin.com/in/matteo-longhi-b3a433247/",
+      "icon": "assets/icons/linkedin.svg"
+    },
+    {
+      "name": "Github",
+      "link": "https://github.com/carnivuth",
+      "icon": "assets/icons/github.svg"
+    },
+    {
+      "name": "email",
+      "link": "mailto:matti200042@gmail.com",
+      "icon": "assets/icons/gmail.svg"
+    }
+  ],
+  "formation": [
+    {
+      "title": "Diploma",
+      "school": "ITIS E.Mattei Urbino"
+    },
+    {
+      "title": "Bachelor's Degree",
+      "school": "Alma Mater Studiorum University of Bologna"
+    }
+  ],
+  "workexperiences": [
+    {
+      "name": "Internship at A.D.V. Media Lab",
+      "description": "data analysis for marketing purposes",
+      "time": "2 months",
+      "link": [
+        "https://img.shields.io/badge/googlesheets-%34A853.svg?style=for-the-badge&logo=googlesheets&logoColor=white"
+      ]
+    },
+    {
+      "name": "Internship at comune Mercatello sul Metauro",
+      "description": "web development with PHP and Wordpress technologies",
+      "time": "2 months",
+      "link": [
+        "https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"
+      ]
+    },
+    {
+      "name": "Internship at Ciollo Service s.r.l.",
+      "description": "Web development, project analysis for digital signature integration",
+      "time": "1 month",
+      "link": [
+        "https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white",
+        "https://img.shields.io/badge/composer-%23777BB4.svg?style=for-the-badge&logo=composer&logoColor=white",
+        "https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white",
+        "https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white",
+        "https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white"
+      ]
+    },
+    {
+      "name": "Web developer at Ciollo Service s.r.l.",
+      "description": "Development of digital signature integration",
+      "time": "6 months",
+      "link": [
+        "https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white",
+        "https://img.shields.io/badge/composer-%23777BB4.svg?style=for-the-badge&logo=composer&logoColor=white",
+        "https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white",
+        "https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white",
+        "https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white"
+      ]
+    },
+    {
+      "name": "system and network administrator at Laboratori Guglielmo Marconi s.p.a.",
+      "description": "devops engineer and system administrator",
+      "time": "current occupation",
+      "link": [
+        "https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white",
+        "https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white",
+        "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black",
+        "https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web development backend technologies",
+      "description": "Advanced knowledge of PHP language and PHP web development,backend development with the framework laravel,and node.js runtime",
+      "link": [
+        "https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white",
+        "https://img.shields.io/badge/composer-%23777BB4.svg?style=for-the-badge&logo=composer&logoColor=white",
+        "https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white",
+        "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"
+      ]
+    },
+    {
+      "name": "Frontend web development technologies",
+      "description": "Advanced knowledge of basic frontend technologies (HTML/CSS/JAVASCRIPT) and jquery technologies, knowledge of Angular for frontend UI design ",
+      "link": [
+        "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white",
+        "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white",
+        "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E",
+        "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white",
+        "https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white",
+        "https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"
+      ]
+    },
+    {
+      "name": "Database",
+      "description": "comprensive knowledge of relational database administration",
+      "link": [
+        "https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white",
+        "https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"
+      ]
+    },
+    {
+      "name": "System administration knowledge",
+      "description": "knowledge of Linux system administration, Ansible deployment, vm management with Vagrant and container administration with Docker  ",
+      "link": [
+        "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black",
+        "https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white",
+        "https://img.shields.io/badge/ansible-red?style=for-the-badge&logo=ansible&logoColor=white",
+        "https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white",
+        "https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"
+      ]
+    },
+    {
+      "name": "C Language",
+      "description": "advanced knowledge of C for general purpose programming, knowledge of open MPI libraries for high performance computing",
+      "link": [
+        "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white",
+        "https://img.shields.io/badge/mpi-%2300599C.svg?style=for-the-badge&logo=libmpi&logoColor=white"
+      ]
+    },
+    {
+      "name": "JAVA Language",
+      "description": "advanced knowledge of JAVA and gradle tools to build and test project, knowledge of javaFX for building UIs ",
+      "link": [
+        "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white",
+        "https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white"
+      ]
+    },
+    {
+      "name": "GO Language",
+      "description": "knowledge of GO language and concurrent programming",
+      "link": [
+        "https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"
+      ]
+    },
+    {
+      "name": "Version Control System GIT",
+      "description": "advanced knowledge of GIT and GIT usage",
+      "link": [
+        "https://img.shields.io/badge/git-%23DD0031.svg?style=for-the-badge&logo=git&logoColor=white"
+      ]
+    }
+  ],
+  "hobbies": [
+    {
+      "name": "gaming",
+      "description": "interessato al mondo del gaming e dei prodotti legati al videoludico sia software che hardware"
+    },
+    {
+      "name": "storia della prima repubblica",
+      "description": "interessato alle vicende politico sociali legate alla prima repubblica "
+    }
+  ],
+  "projects": [
+    {
+      "name": "YouCook",
+      "description": "applicazione web per la gestione di ricette di cucina",
+      "tecnologies": "Angular",
+      "links": ["https://github.com/carnivuth/youCook"]
+    }
+  ]
+}

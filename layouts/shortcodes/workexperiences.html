@@ -1,0 +1,15 @@
+{{ with $file := .Get 0 }}
+  {{ with resources.Get $file }}
+    {{ with . | transform.Unmarshal }}
+
+      <ul>
+        {{ range .workexperiences }}
+          <li>
+    <h3>{{ .name }}</h3>
+    <h4>{{ .description }}</h4>
+          </li>
+        {{ end }}
+      </ul>
+    {{ end }}
+  {{ end }}
+{{ end }}

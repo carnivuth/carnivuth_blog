@@ -1,0 +1,15 @@
+{{ with $file := .Get 0 }}
+  {{ with resources.Get $file }}
+    {{ with . | transform.Unmarshal }}
+
+      <ul>
+        {{ range .formation }}
+          <li>
+    <h3>{{ .title }}</h3>
+    <h4>{{ .school }}</h4>
+          </li>
+        {{ end }}
+      </ul>
+    {{ end }}
+  {{ end }}
+{{ end }}
