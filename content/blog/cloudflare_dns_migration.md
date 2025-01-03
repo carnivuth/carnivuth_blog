@@ -65,7 +65,6 @@ apt install ddclient
 ```text
 protocol=cloudflare \
 use=web, web=ipify-ipv4 \
-login=USER \
 password='TOKEN' \
 zone=carnivuth.org \
 carnivuth.org
